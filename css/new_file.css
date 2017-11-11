@@ -195,10 +195,10 @@ body {
 
 .menu{
 	width: 15%;
-	height: 240px;
+	height: 200px;
 	position: fixed;
 	right: 100px;
-	top: 220px;
+	top: 240px;
 }
 
 .menu img{
